@@ -14,10 +14,6 @@ github_username: cagdemir
 email: 
 twitter_username: adnancagri
 
-# OPTIONAL: override baseurl and url if using a custom domain
-url:  http://cagridemir.com
-#baseurl: the subpath of your site, e.g. /blog
-
 # Set this to true to get LaTeX math equation support
 use_math: true
 
